@@ -4,7 +4,7 @@ import './App.css';
 import Header from './components.js/Header';
 import MainContent from './components.js/MainContent';
 import Footer from './components.js/Footer';
-
+// import './header.css';
 
 function App() {
   return (
