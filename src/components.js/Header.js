@@ -12,8 +12,12 @@ function Header() {
                     <li>About</li>
                 </ul>
             </div>
-            
-            <h1>Vivien Renee</h1>
+            <div className="titleName">
+                <h1>Vivien Renee</h1>
+            </div>
+            <div className="jobTitle">
+                <p>Work In Progress</p>
+            </div>          
         </div>
         
     );
