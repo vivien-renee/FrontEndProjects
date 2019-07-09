@@ -1,1 +1,1 @@
-# FrontEndProjects
+permalink: /index.html; 
